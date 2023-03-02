@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae2e408-4337-48e1-abe9-abdda890b323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastcampus-project-admin/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastcampus-project-admin/src/test/java/com/fastcampus/projectadmin/FastcampusProjectAdminApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/fastcampus-project-board/src/main/resources/application.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="2ae2e408-4337-48e1-abe9-abdda890b323" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,34 +66,34 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "C:/Users/acalo/github/adminService/board-and-admin/fastcampus-project-admin/src/main/java/com/fastcampus/projectadmin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general",
-    "spring.configuration.checksum": "33b96d9f899a4e7a6aca6319b36fcc0e"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/acalo/github/adminService/board-and-admin/fastcampus-project-admin/src/main/java/com/fastcampus/projectadmin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;33b96d9f899a4e7a6aca6319b36fcc0e&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acalo\github\adminService\board-and-admin\fastcampus-project-admin\src\main\java\com\fastcampus\projectadmin" />
@@ -147,7 +141,7 @@
     </configuration>
     <configuration name="FastcampusProjectAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="project-admin.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fastcampus.projectadmin.FastcampusProjectAdminApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fastcampus.projectadmin.FastCampusProjectAdminApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677738236404</updated>
       <workItem from="1677738237908" duration="3326000" />
-      <workItem from="1677741848793" duration="1255000" />
+      <workItem from="1677741848793" duration="1980000" />
     </task>
     <servers />
   </component>
